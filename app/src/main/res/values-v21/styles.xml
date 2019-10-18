@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="baseTheme" parent="@style/QMUI.Compat">
+        <!--不显示标题-->
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+</resources>
